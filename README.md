@@ -1,6 +1,6 @@
 [![Shopco Screenshot](https://github.com/mohammadoftadeh/repo-assets/blob/main/shopco-cover.png?raw=true)](https://next-ecommerce-shopco.vercel.app/)
 
-# sxrmdofficial
+# UI/UX Figma To Code Hackathon
 
 Shopco is an open-source project that transforms Figma e-commerce designs into fully responsive web applications. Leveraging cutting-edge technologies like Next.js 15 App Router, TypeScript, Tailwind CSS, Redux, Framer Motion, and ShadCN UI, Shopco provides a modern, scalable, and optimized solution adhering to industry best practices.
 
