@@ -1,8 +1,8 @@
 [![Shopco Screenshot](https://github.com/mohammadoftadeh/repo-assets/blob/main/shopco-cover.png?raw=true)](https://next-ecommerce-shopco.vercel.app/)
 
-# Shopco
+# sxrmdofficial
 
-Shopco is an open-source project that converts a Figma design of an e-commerce website into a fully responsive front-end application. It utilizes **Next.js 14 App Router**, **TypeScript**, **Tailwind CSS**, **Redux**, **Framer Motion**, and **ShadCN UI** to deliver a modern, scalable, and optimized solution based on industry standards.
+Shopco is an open-source project that converts a Figma design of an e-commerce website into a fully responsive front-end application. It utilizes **Next.js 15 App Router**, **TypeScript**, **Tailwind CSS**, **Redux**, **Framer Motion**, and **ShadCN UI** to deliver a modern, scalable, and optimized solution based on industry standards.
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ Shopco bridges the gap between design and development by converting Figma design
 
 ## Demo
 
-Check out the live demo: [Shopco Demo](https://next-ecommerce-shopco.vercel.app/)
+Check out the live demo: [Shopco Demo](https://uiux-figma-hackathon.vercel.app/)
 
 <!-- [![Shopco Screenshot](https://github.com/mohammadoftadeh/repo-assets/blob/main/shopco-cover.png?raw=true)](https://next-ecommerce-shopco.vercel.app/) -->
 
