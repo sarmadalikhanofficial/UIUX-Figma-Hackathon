@@ -74,7 +74,7 @@ const Footer = () => {
                   "text-[28px] lg:text-[32px] mb-6",
                 ])}
               >
-                SHOP.CO
+                SXRMD OFFICIAL
               </h1>
               <p className="text-black/60 text-sm mb-9">
               We offer clothing that perfectly matches your style and makes you feel confident and proud to wear. Designed for both women and men.
